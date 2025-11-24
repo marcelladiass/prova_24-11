@@ -1,0 +1,7 @@
+{
+  "name": "Saúde Fácil - Prototyping Suite",
+  "description": "A workbench for designing and testing the Saúde Fácil application, featuring AI-driven strategy generation and prescription scanning prototypes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
